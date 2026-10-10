@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="86" viewBox="0 0 960 86" role="img" aria-labelledby="title desc">
+  <title id="title">one thing usually leads to another</title>
+  <desc id="desc">A subdued navy closing note: usually working on something.</desc>
+  <rect x="1" y="1" width="958" height="84" rx="12" fill="#111f33" stroke="#314760"/>
+  <path d="M29 34L38 43L29 52" fill="none" stroke="#829fbc" stroke-width="2"/>
+  <text x="54" y="49" font-family="Consolas, 'Courier New', monospace" font-size="17" fill="#bdccda">one thing usually leads to another</text>
+  <text x="924" y="49" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8da5bd">usually working on something.</text>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="312" viewBox="0 0 960 312" role="img" aria-labelledby="title desc">
+  <title id="title">JESSY.EXE — Jessy Karamaoun</title>
+  <desc id="desc">A navy terminal window with slate-blue lettering, a small pixel-art coffee cup, and a quiet constellation. one thing usually leads to another.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1729"/>
+      <stop offset="1" stop-color="#172d48"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#587fa4"/>
+      <stop offset="1" stop-color="#2b405c"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#88a4bf" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="958" height="310" rx="18" fill="url(#bg)" stroke="#314760"/>
+  <rect x="1" y="1" width="958" height="310" rx="18" fill="url(#grid)"/>
+  <path d="M19 1H941Q959 1 959 19V46H1V19Q1 1 19 1Z" fill="#111c2e"/>
+  <path d="M1 46H959" stroke="#314760"/>
+  <circle cx="25" cy="24" r="4" fill="#52657b"/>
+  <circle cx="41" cy="24" r="4" fill="#607a94"/>
+  <circle cx="57" cy="24" r="4" fill="#7897b5"/>
+  <text x="82" y="29" fill="#9aafc5" font-family="Consolas, 'Courier New', monospace" font-size="12">jesss77 / profile</text>
+  <text x="930" y="29" text-anchor="end" fill="#6f88a3" font-family="Consolas, 'Courier New', monospace" font-size="12">~/one-more-idea</text>
+  <text x="43" y="94" fill="#8eacc9" font-family="Consolas, 'Courier New', monospace" font-size="14" letter-spacing="3">&gt; JESSY.EXE</text>
+  <text x="40" y="163" fill="#e3ecf5" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-1.5">Jessy Karamaoun</text>
+  <text x="43" y="203" fill="#adbed0" font-family="Segoe UI, Arial, sans-serif" font-size="21">one thing usually leads to another</text>
+  <rect x="43" y="235" width="45" height="3" rx="1.5" fill="url(#edge)"/>
+  <text x="102" y="242" fill="#8ea7c0" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="1">BUILD / LEARN / FOLLOW THE DETOUR</text>
+  <path d="M715 107L769 79L833 109L894 82M769 79L795 149L833 109" fill="none" stroke="#4a6684" stroke-opacity=".5"/>
+  <g fill="#7694b2">
+    <rect x="712" y="104" width="5" height="5"/><rect x="766" y="76" width="6" height="6"/>
+    <rect x="830" y="106" width="5" height="5"/><rect x="892" y="80" width="4" height="4"/>
+    <rect x="792" y="146" width="5" height="5"/>
+  </g>
+  <g shape-rendering="crispEdges">
+    <path d="M803 167V155H809V143M825 161V149H831V137" fill="none" stroke="#7896b3" stroke-width="5" opacity=".7"/>
+    <path d="M783 182H843V225H837V237H795V225H783Z" fill="#7391af"/>
+    <path d="M789 188H837V224H831V231H801V224H789Z" fill="#a2b7cb"/>
+    <path d="M843 189H861V213H843" fill="none" stroke="#7391af" stroke-width="6"/>
+    <path d="M804 197H816V203H822V209H816V215H810V209H804Z" fill="#344e6b"/>
+    <path d="M774 246H858" stroke="#47627e" stroke-width="5"/>
+  </g>
+  <path d="M43 284H918" stroke="#2b425c"/>
+</svg>
