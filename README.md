@@ -8,7 +8,7 @@
 
 *Somewhere between a good idea and another coffee.*
 
-[GitHub](https://github.com/jesss77) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/jessy-karamaoun) &nbsp; / &nbsp; [Email](mailto:jessykaramaoun1@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jessy-karamaoun) &nbsp; / &nbsp; [Email](mailto:jessykaramaoun1@gmail.com)
 
 </div>
 
