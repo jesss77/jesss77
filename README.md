@@ -18,63 +18,36 @@
 
 I like building things that are useful, interesting, or just fun to make.
 
-My work spans software development, AI, and data, with the occasional detour into game development. I've worked on full-stack applications and machine learning pipelines. One idea tends to turn into another project.
+My work spans software development, AI, data, and game development. I've worked on full-stack applications and machine learning pipelines. One idea tends to turn into yet another project.
 
-**The usual mix:** `Software Engineering` · `AI & Machine Learning` · `Data Engineering` · `Game Development`
+`Software Engineering` · `AI & Machine Learning` · `Data Engineering` · `Game Development`
 
 <br />
 
 ### `02` &nbsp; My toolkit
 
-| Where I use it | What I work with |
+| Category | Technologies |
 | :--- | :--- |
 | **Languages** | Python · JavaScript · TypeScript · C# · C++ · Kotlin · SQL |
 | **Web & backend** | React · Node.js · ASP.NET Core |
 | **Data & AI** | Power BI · SQL Server · Vector embeddings · LLMs |
 | **Android** | Kotlin · MVVM · Room |
-| **Games & everyday tools** | Godot · Git |
+| **Games** | Godot · Git |
 
 <br />
 
-### `03` &nbsp; Selected projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
+### Projects
 
 #### Driving Test Practice
 
-Interactive practice for the Lebanese driving test.
+Practice questions for the Lebanese driving test.
 
 <sub>HTML · CSS · JavaScript</sub>
 
 **[Try it →](https://jesss77.github.io/driving-test-practice/)**
 
-</td>
-<td width="50%" valign="top">
-
-#### Match & Learn
-
-An educational matching game for early childhood learning.
-
-<sub>React · JavaScript · Kodular</sub>
-
-**[Play & learn →](https://match-and-learn.vercel.app)**
-
-</td>
-</tr>
-</table>
-
-| Project | What I built | Toolkit |
+| Project | What it does | Stack |
 | :--- | :--- | :--- |
-| **RAG Agent** | Document retrieval and LLM-powered question answering | Python · Vector embeddings · LLMs |
-| **Restaurant Booking System** | A full-stack reservation platform with real-time availability and role-based dashboards | ASP.NET Core · SQL Server |
-| **Smart Expense Tracker** | An Android finance tracker with budget alerts, analytics, and PDF export | Kotlin · MVVM · Room |
-
-<br />
-
-<div align="center">
-
-<img src="./assets/closing-note.svg" width="100%" alt="one thing usually leads to another — usually working on something." />
-
-</div>
+| **RAG Agent** | Finds relevant content in documents and uses an LLM to answer questions about it. | Python · Vector embeddings · LLMs |
+| **Restaurant Booking System** | Handles reservations, tracks availability in real time, and provides dashboards for different user roles. | ASP.NET Core · SQL Server |
+| **Smart Expense Tracker** | Tracks expenses on Android, sends budget alerts, shows spending analytics, and exports PDF reports. | Kotlin · MVVM · Room |
